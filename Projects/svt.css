@@ -1,0 +1,41 @@
+
+
+h1 ,p{
+    text-align: center;
+    float:  bottom;
+}
+
+h1{
+    font-weight: 100000;
+vertical-align:middle;}
+    
+
+.svtt{
+    width: auto;
+    height: 200px;
+    background-color:#91a7d0 ;
+    border: 2px;
+}
+.tiger{
+    width: auto;
+    height: 1000px;
+    border: .5px black;
+    margin: .5px;
+    }
+.side{  
+    width: 300px ; 
+    height: 1000px ;
+    background-color:#f7caf7 ;
+    border: .5px;
+    display: inline-block;
+ }
+ .about{
+    width: 1020px;
+     height: 1000px;
+    background-color:#f7caf7;
+    border: .5px;
+    float: right;
+    display: flex;
+    justify-content: center;
+ }
+ body{background-color: #91a7d0;}

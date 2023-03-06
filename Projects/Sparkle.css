@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(133, 114, 90);
+
+}
+h1{ text-align: center;}
+p{ text-align: center;}
+.navigationbar{
+    float: right;
+    list-style-type: none;
+    padding: 20px;
+    display: block;
+    color: aqua; 
+    text-decoration: none;
+    border: 2px;
+}
+
+a :hover{ color: palevioletred;}
+a :visited{ color: khaki;} 
+a :active{color: slategray;}
+a :link{color: navajowhite;}
+
